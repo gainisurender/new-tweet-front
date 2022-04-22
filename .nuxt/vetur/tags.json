@@ -1,0 +1,23 @@
+{
+  "AppHeader": {
+    "description": "Auto imported from components/AppHeader.vue"
+  },
+  "AppHeader1": {
+    "description": "Auto imported from components/AppHeader1.vue"
+  },
+  "ErrorMsg": {
+    "description": "Auto imported from components/ErrorMsg.vue"
+  },
+  "Home": {
+    "description": "Auto imported from components/Home.vue"
+  },
+  "UserHeader": {
+    "description": "Auto imported from components/UserHeader.vue"
+  },
+  "UserLogin": {
+    "description": "Auto imported from components/UserLogin.vue"
+  },
+  "UserRegistration": {
+    "description": "Auto imported from components/UserRegistration.vue"
+  }
+}

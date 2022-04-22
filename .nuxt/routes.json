@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CreatePost",
+    "path": "/CreatePost",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\CreatePost.vue",
+    "chunkName": "pages/CreatePost",
+    "_name": "_2019df92"
+  },
+  {
+    "name": "Posts",
+    "path": "/Posts",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\Posts.vue",
+    "chunkName": "pages/Posts",
+    "_name": "_7aafc1b0"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register",
+    "_name": "_3044405e"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome",
+    "_name": "_4b4ddd85"
+  },
+  {
+    "name": "UserProfile",
+    "path": "/UserProfile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\UserProfile.vue",
+    "chunkName": "pages/UserProfile",
+    "_name": "_6db7ef73"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Downloads\\\\Twitter_Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_bab3d672"
+  }
+]
